@@ -14,4 +14,4 @@
 
 ## My Git Stats
 
-[![Bdbose's github stats](https://github-readme-stats.vercel.app/api?username=bdbose)](https://github.com/bdbose/github-readme-stats)
+![Bdbose's github stats](https://github-readme-stats.vercel.app/api?username=bdbose&show_icons=true&theme=radical)
