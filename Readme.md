@@ -12,7 +12,7 @@
 <b>
 <hr>
 
-## :tada: My Git Stats
+## :tada: My Git Stat
 
 ![Bdbose's github stats](https://github-readme-stats.vercel.app/api?username=bdbose&show_icons=true&theme=radical)
 
