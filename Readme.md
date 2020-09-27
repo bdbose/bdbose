@@ -12,10 +12,10 @@
 <b>
 <hr>
 
-## :tada: My Git Stat
+## :tada: My Git Stats
 
 ![Bdbose's github stats](https://github-readme-stats.vercel.app/api?username=bdbose&show_icons=true&theme=radical)
 
-## :crystal_ball: Most Used Languages
+## :crystal_ball: My Most Used Languages
 
 ![Bdbose's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bdbose&layout=compact)
