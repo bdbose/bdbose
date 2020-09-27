@@ -1,6 +1,6 @@
 <!-- @format -->
 
-## Hey There U+1F44B I'm Bidipto Bose U+1F468 U+200D U+1F4BB
+## Hey There :wave: I'm Bidipto Bose :fire:
 
 <hr>
 
