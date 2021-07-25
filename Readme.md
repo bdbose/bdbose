@@ -1,7 +1,7 @@
 <!-- @format -->
 
 ## Hey There :wave: It's Bidipto Bose :fire:
-
+<img src="https://komarev.com/ghpvc/?username=bdbose&label=🕵️&color=blue" alt="bidipto bose" />
 <hr>
 <b>
 <li> :house: Hi , I am Bidipto Bose from Kolkata , India . <br>
