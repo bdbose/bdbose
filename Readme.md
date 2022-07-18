@@ -5,10 +5,11 @@
 <hr>
 <b>
 <li> :house: Hi , I am Bidipto Bose from Kolkata , India . <br>
-<li> :books: I am currently a 4th year student in Calcutta Institute of Engineering and Management . <br>
-<li>  :computer: Coding is like a Hobby to me and learning new programming language is like my passion. <br>
+<li> :computer: SDE @ SaffronStays. <br>
+<li> :books: Completed BTech in CS from Calcutta Institute of Engineering and Management . <br>
+<li> :computer: Coding is like a Hobby to me and learning new programming language is like my passion. <br>
 <li> :globe_with_meridians: Mainly focused on Learning new tech .<br>
-<li> :octocat: Already 2years of experience in Website Development and also have experience in multiple internships .
+<li> :octocat: Already 3years of experience in Website Development and also have experience in multiple internships .
 <b>
 <hr>
 
