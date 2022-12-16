@@ -17,10 +17,6 @@
 
 ### :earth_asia: Checkout My Website: https://bdbose.in/
 
-## Contribution: Red Hat Official Open Source
-
-### Link : https://github.com/RedHatOfficial/RedHatOfficial.github.io/commits?author=bdbose
-
 ## :tada: My Git Stats
 
 ![Bdbose's github stats](https://github-readme-stats.vercel.app/api?username=bdbose&show_icons=true&theme=radical)
